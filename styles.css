@@ -4,50 +4,54 @@
    padding: 0;
 
   }
-  header
+
+  .navbar-brand img
+  {
+width: 50%
+  }
+
+  .navbar-brand
+  {
+    left:40%;
+    transform: translateX(40%);
+    top:1px;
+    position: absolute;
+  }
+  .header
+  {background-color:white;
+   }
+   .navbar
    {
-    background-image: url(walk-in-wardrobe-and-dressing-room.jpg);
-       height:100vh;
-       background-size: cover;
-       background-position: center;
+     padding: 0 35px !important;
+     height: 120px;
+   }
+.navbar-toggler
+{
+border: none !important;
+outline:none !important;
+padding:0 !important;
+margin-top:30px;
 
-  }
-  .main-nav
-  {
-       float:right;
-       list-style: none;
-       margin-top: 30px;
-
-  }
-
-  .main-nav  li
-  {
-      display: inline-block;
-
-  }
-
-  .main-nav li  a
-  {
-    color: white;
-    text-decoration: none;
-    padding: 5px 20px;
-    font-family: "Roboto",sans-serif;
-    font-size: 15px;
-  }
-.main-nav li.active a
+}
+.main
+{
+text-align: center;
+text
+}
+.background-img
+{
+  margin: 80px 115px;
+  width:60%;
+}
+.banner-img  img
  {
-   border: 3px solid white;
+   width: 100%;
+   margin-bottom: -80px;
  }
-
- .main-nav li:hover
+ .background
  {
-   border: 1px solid white;
+   position: relative;
  }
- .h1
- {
-   color: white;
-   text-transform: uppercase;
-   font-size: 70px;
-   text-align: center;
-   margin-top: 15px;
- }
+.baCKGROUND-title
+{position: absolute;
+}
