@@ -119,9 +119,40 @@ margin-top: 70px;
   font-style: italic;
   font-family: cursive;
   text-align: center;
-  padding-top: 100px;;
+  padding-top: 100px;
   text margin-top: inline-block;
+}
+.lead
+{
+  font-weight:bold;
+  margin-top: 30px;
+  margin-left: 60px;
+  text-align: center;
+  display: inline-block;
+}
+.top
+{
+  width:100%;
+  display: block;
+  margin-right: 70px;
+  position: absolute;
+  margin-top: 20px;
+  padding-left: 20%;
+}
 
-
-
+.top  ol
+{
+  display: block;
+  list-style-type: decimal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0px;
+  padding-left: 20%;
+}
+.alert
+{
+  margin-top: 60px;
+  margin-left: 70px;
+  margin-right: 90px;
 }
