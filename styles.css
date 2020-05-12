@@ -156,3 +156,67 @@ margin-top: 70px;
   margin-left: 70px;
   margin-right: 90px;
 }
+.boxdiv
+{
+  min-height: 150px;
+  padding-left: 20px;
+position: absolute;
+  background-color: #F08080;
+  font-weight: 300;
+  color: black;
+  margin-top: 220px;
+  margin-left: 60px;
+  padding-bottom: 40px;
+
+}
+.business-formal-image
+{
+  position:absolute;
+ margin-top: 180px;
+ float: right;
+
+}
+.bfimage
+{
+  margin: -140px -140px;
+  width:100%;
+  display: inline-block;
+  float:right;
+
+}
+.bfimage img
+{
+margin-left: 850px;
+  width:35%;
+  margin-top: 90px;
+
+}
+.business-professional-image
+{
+  margin-bottom: 200px;
+  position: relative;
+  display: inline-block;
+  width:100%;
+
+}
+.business-professional-image img
+{
+  margin: 254px -225px;
+
+
+}
+
+.boxdiv2
+{
+  min-height: 150px;
+  padding-left: 20px;
+position: absolute;
+  background-color: #F08080;
+  font-weight: 300;
+  color: black;
+  margin-top: 290px;
+  margin-left: 90px;
+  padding-bottom: 40px;
+  width: 700px;
+
+}
